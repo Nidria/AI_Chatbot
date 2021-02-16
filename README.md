@@ -1,2 +1,2 @@
-# AI_Chatbot
+# Chatbot
 A general AI chatbot
